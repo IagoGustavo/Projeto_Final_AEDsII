@@ -1,0 +1,23 @@
+# ORGANIZAÇÃO DOS TÓPICOS A SEREM ABORDADOS - ALGORITMOS E ESTRUTURA DE DADOS II #
+
+Discentes: Carolina Sartori, Iago Gustavo, Vinicius
+Tema: Sistema de Gerenciamento de Empréstimo em Biblioteca
+
+* Registros e Ponteiros
+	- Estruturas serão necessárias para agrupar os conjuntos de dados (livros, acervo, empréstimo, devolução)
+	- Ponteiros serão necessários para acessar as estruturas alocadas dinamicamente na memória, a fim de fazer alterações diretas e acessar seus valores diretamente
+
+* Organização e Manipulação de Memória
+	- Neste tópico será feito o uso de alocação de memória com o objetivo de guardar, acessar e modificar os elementos diretamente
+
+* Tipos Abstratos de Dados
+	- Com este método o programa será separado em três arquivos, um arquivo cabeçalho, outro arquivo para implementação das funções e por fim o arquivo que executa o programa
+
+* Lista
+	- Listar os livros cadastrados no acervo, do começo ao fim, percorrendo toda a lista
+
+* Fila
+	- Armazenar os livros emprestados partindo do primeiro livro emprestado, ou seja, o que o prazo de devolução está mais próximo de se encerrar
+
+* Pilha
+	- Remover o último livro cadastrado sem a necessidade de buscá-lo pela pilha
